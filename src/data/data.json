@@ -284,23 +284,7 @@
       ],
 
       "projects": [
-        {
-          "id": 2,
-          "filters": ["reactJS","Next JS","NodeJS"],
-          "url": "https://blgdlab.com/",
-          "title": "Bhanderi Lab Grown Diamonds",
-          "tags": [
-            "React JS",
-            "Next JS",
-            "Node JS",
-            "Express JS",
-            "GSAP"
-          ],
-          "images": [
-            "/images/projects/bhanderi-web.png",
-            "/images/projects/bhanderi-app.png"
-          ]
-        },
+       
         {
           "id": 1,
           "filters": ["reactJS", "nodeJS"],
@@ -308,8 +292,9 @@
           "title": "Contact Manager",
           "tags": ["HTML", "SCSS", "ReactJS", "NodeJS","Styled Components"],
           "images": [
-            "/images/projects/contact-manager-web.png",
-            "/images/projects/contact-manager-app.png"
+            "/images/projects/contact-web.png",
+            "/images/projects/contact-web-1.png",
+            "/images/projects/contact-app.png"
           ]
         },
         {
@@ -326,7 +311,10 @@
           ],
           "images": [
             "/images/projects/quiz-nation-web.png",
-            "/images/projects/quiz-nation-app.png"
+            "/images/projects/quiz-nation-web-1.png",
+            "/images/projects/quiz-nation-web-2.png",
+            "/images/projects/quiz-nation-app.png",
+            "/images/projects/quiz-nation-app-1.png"
           ]
         }
       ]
