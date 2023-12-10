@@ -306,7 +306,7 @@
           "filters": ["reactJS", "nodeJS"],
           "url": "https://github.com/VishalMakwana23/contact-manager",
           "title": "Contact Manager",
-          "tags": ["HTML", "SCSS", "ReactJS", "NodeJS"],
+          "tags": ["HTML", "SCSS", "ReactJS", "NodeJS","Styled Components"],
           "images": [
             "/images/projects/contact-manager-web.png",
             "/images/projects/contact-manager-app.png"
