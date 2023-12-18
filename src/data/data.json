@@ -322,137 +322,26 @@
 
     "courses": [
       {
-        "id": 6,
-        "title": "6th Semester",
+        "id": 4,
+        "title": "4th Semester",
         "timeline": [
           {
             "id": "PRJ666",
             "title": "Project Implementation",
             "date": "May 2018 - Aug 2018",
             "subtitle": "PRJ666 (C)",
-            "description": "This is the final course in the systems stream in which students complete the development and implementation phase of their project from PRJ566...",
+            "description": "The students are required to carry out full time software development project in a company.The students must prepare documentation of the project completed as per the guidelines given by the institute.",
             "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/prj666"
+            "url": "/syllabus/Project.pdf"
           },
           {
-            "id": "WIN210",
-            "title": "Administration of Microsoft Windows",
+            "id": "PRJ666",
+            "title": "Seminar Implementation",
             "date": "May 2018 - Aug 2018",
-            "subtitle": "WIN210 (B)",
-            "description": "This course provides students with the knowledge and skills necessary to perform administration tasks on a Microsoft Windows Server operating system...",
+            "subtitle": "PRJ666 (C)",
+            "description": "The students are required to prepare a seminar on a relevant topic concerning the subject of interest of the student; as well as latest technology.",
             "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/WIN210/current/ce"
-          },
-          {
-            "id": "GAM531",
-            "title": "Game Engine Foundations",
-            "date": "Sept 2018 - Dec 2018",
-            "subtitle": "GAM531 (D)",
-            "description": "Graphics accelerators provide developers with powerful tools for displaying visual information...",
-            "button": "Read More",
-            "url": "http://ict.senecacollege.ca/course/GAM531"
-          },
-          {
-            "id": "GAM537",
-            "title": "Game Development Fundamentals",
-            "date": "Sept 2018 - Dec 2018",
-            "subtitle": "GAM537 (B)",
-            "description": "This subject will teach students the principles of game design and give them the opportunity to create a game using an existing game engine...",
-            "button": "Read More",
-            "url": "http://ict.senecacollege.ca/course/GAM537"
-          },
-          {
-            "id": "UNX510",
-            "title": "UNIX BASH Shell Scripting",
-            "date": "Jan 2019 - Apr 2019",
-            "subtitle": "UNX510 (B)",
-            "description": "This course is an intensive look at Linux, from the command level, and at the Bourne Again SHell (BASH). Students will learn how to write, debug, run, and modify complex BASH scripts...",
-            "button": "Read More",
-            "url": "http://ict.senecacollege.ca/course/UNX510"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "title": "5th Semester",
-        "timeline": [
-          {
-            "id": "DSA555",
-            "title": "Data Structures and Algorithms in C++",
-            "date": "Jan 2018 - Apr 2018",
-            "subtitle": "DSA555 (A)",
-            "description": "This is a survey course on algorithms and data structures commonly used in computer programs. Students taking this course will learn how these classical data structures and algorithms function...",
-            "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/dsa555"
-          },
-          {
-            "id": "GAM536",
-            "title": "Game Content Creation",
-            "date": "Jan 2018 - Apr 2018",
-            "subtitle": "GAM536 (A)",
-            "description": "This course will explore how content is created both interactively and through coding. Students will learn to create and alter 3D content using both means...",
-            "button": "Read More",
-            "url": "http://ict.senecacollege.ca/course/GAM536"
-          },
-          {
-            "id": "GPU610",
-            "title": "Parallel Programming Fundamentals",
-            "date": "Jan 2018 - Apr 2018",
-            "subtitle": "GPU610 (C+)",
-            "description": "This course teaches students how to read and write programs that use both CPU and GPU technology...",
-            "button": "Read More",
-            "url": "http://ict.senecacollege.ca/course/GPU610"
-          },
-          {
-            "id": "PRJ566",
-            "title": "Project Planning and Management",
-            "date": "Jan 2018 - Apr 2018",
-            "subtitle": "PRJ566 (A)",
-            "description": "Students learn project management concepts while carrying out requirements gathering, analysis, design, and implementation planning for the identified system...",
-            "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/prj566"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "4th Semester",
-        "timeline": [
-          {
-            "id": "DCN455",
-            "title": "Data Communications Networks",
-            "date": "Sept 2018 - Jan 2018",
-            "subtitle": "DCN455 (B+)",
-            "description": "In this course, students will learn about the software and hardware systems and technology needed to create data communications networks...",
-            "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/DCN455/current/ce"
-          },
-          {
-            "id": "INT422",
-            "title": "Web Programming on Windows",
-            "date": "Sept 2018 - Jan 2018",
-            "subtitle": "INT422 (A)",
-            "description": "The course focuses on server-side ASP.NET programming technologies and the C# language...",
-            "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/INT422/current/ce"
-          },
-          {
-            "id": "JAC444",
-            "title": "Java for C++ Programmers",
-            "date": "Sept 2018 - Jan 2018",
-            "subtitle": "JAC444 (B+)",
-            "description": "This subject will serve as a thorough introduction to Java as an object-oriented and functional programming language...",
-            "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/JAC444"
-          },
-          {
-            "id": "SYS466",
-            "title": "Analysis and Design Using OO Models",
-            "date": "Sept 2018 - Jan 2018",
-            "subtitle": "SYS466 (A)",
-            "description": "This subject focuses on the practical application of object oriented concepts to the development of business systems...",
-            "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/SYS466"
+            "url": "/syllabus/Seminar.pdf"
           }
         ]
       },
@@ -462,39 +351,48 @@
         "timeline": [
           {
             "id": "DBS301",
-            "title": "Database Design and SQL Using Oracle",
+            "title": "Machine Learning (ML)",
             "date": "Jan 2017 - Apr 2017",
             "subtitle": "DBS301 (B)",
-            "description": "This subject continues the study of database design and SQL begun in DBS201. Students will learn the entire set of SQL statements using Oracle's DBMS...",
+            "description": "This course is an introduction for students to ML. The course also gives students an idea about various methods and algorithms of Machine Learning and application development of ML.",
             "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/DBS301/current/ce"
+            "url": "/syllabus/Machine-Learning.pdf"
           },
           {
             "id": "INT322",
-            "title": "Web Programming on UNIX",
+            "title": "Design Patterns",
             "date": "Jan 2017 - Apr 2017",
             "subtitle": "INT322 (A)",
-            "description": "This subject will provide the student with the skills and knowledge required to create and maintain commercial-quality web sites suitable for database-driven business transactions...",
+            "description": "The purpose of the course is to make student understand how Patterns can be in various object oriented programming languages to solve real world problems.",
             "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/INT322/current/ce"
+            "url": "/syllabus/Design-Patterns.pdf"
           },
           {
             "id": "OOP345",
-            "title": "Object-Oriented Software Development Using C++",
+            "title": "Advanced Web Technologies",
             "date": "Jan 2017 - Apr 2017",
             "subtitle": "OOP345 (A+)",
-            "description": "This subject expands the student's skill-set in object-oriented programming and introduces the student to threaded programming...",
+            "description": "ASP.NET is a technology used for web application development. It's used to create web applications, web services, and dynamic content-centric websites. ASP.NET is based on CSS, HTML5, and JavaScript.",
             "button": "Read More",
-            "url": "http://ict.senecacollege.ca/course/oop345"
+            "url": "/syllabus/Advanced-Web-Technologies.pdf"
           },
           {
             "id": "SYS366",
-            "title": "Requirements Gathering Using OO Models",
+            "title": "Full Stack Technology",
             "date": "Jan 2017 - Apr 2017",
             "subtitle": "SYS366 (B+)",
-            "description": "This subject focuses on the techniques and tools involved in gathering requirements for business systems that will solve business stakeholders' processing problems...",
+            "description": "The purpose of the course is to make the students capable of developing full stack web applications.",
             "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/sys366"
+            "url": "/syllabus/Full-Stack-Technology.pdf"
+          },
+          {
+            "id": "SYS366",
+            "title": "Open Source Web Based Programming",
+            "date": "Jan 2017 - Apr 2017",
+            "subtitle": "SYS366 (B+)",
+            "description": "This course helps students to understand fundamentals of Open Source web based Programming. The course also imparts students learning about Open source web based scripting language PHP and Mysql database. It also includes MVC or Three tier architecture of web based programming.",
+            "button": "Read More",
+            "url": "/syllabus/Open-Source-Web-Based-Programming.pdf"
           }
         ]
       },
@@ -503,31 +401,49 @@
         "title": "2nd Semester",
         "timeline": [
           {
-            "id": "DBS201",
-            "title": "Database Design and SQL",
+            "id": "OOP244",
+            "title": "iOS Development using Swift",
             "date": "Sept 2016 - Dec 2016",
-            "subtitle": "DBS201 (A)",
-            "description": "This subject introduces students to relational database design and SQL (Structured Query Language) used with relational databases...",
+            "subtitle": "OOP244 (A)",
+            "description": "This course will help the students to understand the fundamental as well as advanced concepts of iOS Programming. The course also provides them the skills necessary to develop an iOS Application from scratch to deploying it on the App Store.",
             "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/DBS201/current/ce"
-          },
-          {
-            "id": "INT222",
-            "title": "Internet Fundamentals",
-            "date": "Sept 2016 - Dec 2016",
-            "subtitle": "INT222 (A)",
-            "description": "This subject introduces students to Internet architecture and software development principles, using the World Wide Web as the system example...",
-            "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/INT222/current/ce"
+            "url": "/syllabus/IOS-Development-Using-Swift.pdf"
           },
           {
             "id": "OOP244",
-            "title": "Object Oriented Programming",
+            "title": "Python Programming Language",
             "date": "Sept 2016 - Dec 2016",
             "subtitle": "OOP244 (A)",
-            "description": "This subject introduces the student to OOP. The student learns to build reusable objects, encapsulate data and logic within a class, inherit one class from another and implement polymorphism...",
+            "description": "The Python language is used popularly among the people working in the area of Machine Learning (ML), Data Analytics, Artificial Intelligence, Web Application,and even the people working on Desktop Applications.",
             "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/oop244"
+            "url": "/syllabus/Python-Programming-Language.pdf"
+          },
+          {
+            "id": "DBS201",
+            "title": "Artificial Intelligence",
+            "date": "Sept 2016 - Dec 2016",
+            "subtitle": "DBS201 (A)",
+            "description": "The purpose of the course is to make the student capable of implementing the concepts, methods, and tools of Artificial Intelligence.",
+            "button": "Read More",
+            "url": "/syllabus/Artificial-Intelligence.pdf"
+          },
+          {
+            "id": "INT222",
+            "title": "Front-end Technologies",
+            "date": "Sept 2016 - Dec 2016",
+            "subtitle": "INT222 (A)",
+            "description": "To understand the concepts of HTML, CSS, Front-end Scripting technologies.",
+            "button": "Read More",
+            "url": "/syllabus/Front-End-Technologies.pdf"
+          },
+          {
+            "id": "OOP244",
+            "title": "Programming in .NET",
+            "date": "Sept 2016 - Dec 2016",
+            "subtitle": "OOP244 (A)",
+            "description": "This course is an introduction to students to understand fundamentals of .NET technology. The course also gives students an idea about VB.NET and ASP.NET Programming.",
+            "button": "Read More",
+            "url": "/syllabus/Programming-In -Dot-NET.pdf"
           }
         ]
       },
@@ -536,31 +452,49 @@
         "title": "1st Semester",
         "timeline": [
           {
-            "id": "IPC144",
-            "title": "Programming Using C",
-            "date": "May 2016 - Aug 2016",
-            "subtitle": "IPC144 (A+)",
-            "description": "This course covers the fundamental principles of computer programming, with an emphasis on problem solving strategies using structured programming techniques...",
-            "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/ipc144"
-          },
-          {
             "id": "ULI101",
-            "title": "Unix/Linux and the Internet",
+            "title": "Data Structures and Design and Analysis of Algorithms",
             "date": "May 2016 - Aug 2016",
             "subtitle": "ULI101 (A)",
-            "description": "This subject introduces students to Unix, Linux and the Internet. Students will learn the core utilities to work productively in a Linux environment...",
+            "description": "This course introduces the various data structures and algorithms involving these data structures and their logical implementation.",
             "button": "Read More",
-            "url": "https://ict.senecacollege.ca/course/uli101"
+            "url": "/syllabus/Data-Structure.pdf"
           },
           {
             "id": "IOS110",
-            "title": "Operating Systems Using Windows",
+            "title": "Relational Database Management System",
             "date": "May 2016 - Aug 2016",
             "subtitle": "IOS110 (A+)",
-            "description": "This course provides a technical foundation of operating system installation, configuration, administration and troubleshooting.",
+            "description": "Give fundamental knowledge of Database Fundamentals like Keys & Normalisation, Oracle Database Server Architecture and Working knowledge of SQL & PL/SQL in Oracle",
             "button": "Read More",
-            "url": "https://www.senecacollege.ca/ssos/find/IOS110/current/ce"
+            "url": "/syllabus/RDBMS.pdf"
+          },
+          {
+            "id": "IPC144",
+            "title": "Object Oriented Programming Methodology",
+            "date": "May 2016 - Aug 2016",
+            "subtitle": "IPC144 (A+)",
+            "description": "This course introduces the concepts of object-oriented programming and skills necessary for developing programs in C++.",
+            "button": "Read More",
+            "url": "/syllabus/OOP.pdf"
+          },
+          {
+            "id": "ULI101",
+            "title": "Cloud Computing",
+            "date": "May 2016 - Aug 2016",
+            "subtitle": "ULI101 (A)",
+            "description": "The purpose of the course is to make student capable of implementing the concepts, methods and tools of Cloud Computing",
+            "button": "Read More",
+            "url": "/syllabus/Clod-Computing.pdf"
+          },
+          {
+            "id": "ULI101",
+            "title": "Computer Network",
+            "date": "May 2016 - Aug 2016",
+            "subtitle": "ULI101 (A)",
+            "description": "This course aims towards learning fundamentals of computer network. The course teaches about the various network technologies and popular network protocols",
+            "button": "Read More",
+            "url": "/syllabus/Computer-Network.pdf"
           }
         ]
       }

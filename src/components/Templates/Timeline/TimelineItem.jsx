@@ -11,7 +11,7 @@ export default function TimelineItem(props) {
       <div className="art-a art-timeline-content">
         {/* header */}
         <div className="art-card-header">
-          <div className="art-left-side">
+          <div className="art-left-side" style={{width:'100%'}}>
             {/* title */}
             <h5>{props.item.title}</h5>
             {/* status / author */}
