@@ -8,11 +8,11 @@ export default function SectionTitle(props) {
           <h4>{props.title}</h4>
         </div>
 
-        {props.rightTitle && (
+        {/* {props.rightTitle && (
           <div className='art-right-frame'>
             <div className={props.rightClass}>{props.rightTitle}</div>
           </div>
-        )}
+        )} */}
       </div>
     </div>
   );

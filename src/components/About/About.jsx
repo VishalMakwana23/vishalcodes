@@ -1,34 +1,42 @@
-import React from 'react';
-import SectionTitle from '../Templates/Text/SectionTitle';
+import React from "react";
+import SectionTitle from "../Templates/Text/SectionTitle";
 
 export default function About() {
   return (
-    <div className='container-fluid'>
-      <div className='row p-30-0'>
+    <div className="container-fluid">
+      <div className="row p-30-0">
         {/* header */}
-        <SectionTitle title='About Me' rightTitle='Fri Mar 19, 2021' rightClass='art-project-category' />
+        <SectionTitle
+          title="About Me"
+          rightTitle="Fri Mar 19, 2021"
+          rightClass="art-project-category"
+        />
 
         {/* content */}
-        <div className='col-lg-12'>
-          <div className='art-a art-card'>
-            <p className='art-lg-text art-white'>
+        <div className="col-lg-12">
+          <div className="art-a art-card">
+            {/* <p className="art-lg-text art-white">
               <i>
-                Consectetur adipisicing elit. Magni debitis nemo, minus aut tempora impedit quis quam omnis,
-                odit saepe ipsa sunt magnam culpa quisquam iusto consectetur necessitatibus. Tenetur,
+                Consectetur adipisicing elit. Magni debitis nemo, minus aut
+                tempora impedit quis quam omnis, odit saepe ipsa sunt magnam
+                culpa quisquam iusto consectetur necessitatibus. Tenetur,
                 eligendi!
               </i>
-            </p>
+            </p> */}
 
             <p>
-              Vero praesentium voluptatibus repellendus, delectus harum. Necessitatibus temporibus,
-              veritatis sapiente laudantium eius rem dolore voluptas porro assumenda quam ea earum ad dolor
-              dolores ut ipsam optio! Numquam dolore quidem sequi eum placeat voluptatum, assumenda et culpa
-              iure nemo vero animi mollitia facere fuga sit debitis doloremque quo tempore nesciunt
-              voluptates cum. Est, labore pariatur cupiditate non alias officia ad nihil animi itaque soluta
-              quo perferendis vero libero ex. Iste ipsam eaque veniam facilis architecto unde, quibusdam
-              accusamus culpa cumque delectus deserunt nemo saepe minima.
+              With over 2+ years of dedicated experience in web design and
+              development, I bring a wealth of expertise to craft exceptional
+              digital solutions. Proficient in both front-end and back-end
+              development, I am dedicated to delivering results that exceed
+              expectations. I have developed several web applications from
+              scratch but at the same time, I manage and update the client’s
+              existing projects also as I have outstanding debugging skills.
             </p>
-            <ul className='art-custom-list'>
+            <p>
+              I'm very proficient in working with the following technologies:
+            </p>
+            <ul className="art-custom-list">
               <li>React JS</li>
               <li>Typescript </li>
               <li>GraphQL</li>
@@ -40,30 +48,26 @@ export default function About() {
               <li>Node.js</li>
             </ul>
             <p>
-              Doloribus recusandae vel odio laboriosam, officia, neque ad. Eius porro, quas adipisci
-              mollitia similique possimus ex odio eum harum eos ut optio architecto eveniet corporis nostrum
-              beatae impedit, iste officia tempora sapiente aut, distinctio numquam inventore et! Ducimus
-              quasi ullam saepe aliquid aut minus molestiae nam. Dolor consequuntur cum consectetur ducimus
-              obcaecati perspiciatis harum quae atque, architecto aut voluptatibus quaerat nisi, nobis
-              asperiores.
+              I have been creating JavaScript apps for the last 2+ years: my
+              main focus is web development using React.js, Next.js, and
+              Node.js, I have a strong background in front-end design and
+              development, and happily work in SASS, HTML5, JavaScript, and
+              React to create websites that work beautifully for everyone.
             </p>
 
-            <blockquote>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo officiis aliquam, placeat quis
-              voluptatum ad. Eum, alias quo fuga sed?
-            </blockquote>
+            {/* <blockquote>
+              Let's embark on a journey to transform your ideas into impeccable
+              web solutions. Reach out today, and together we'll create digital
+              experiences that stand out in the crowd.
+            </blockquote> */}
 
             <p>
-              Est nesciunt dolorum asperiores sint mollitia quod, nostrum eos maxime illo eveniet ducimus
-              labore amet voluptatum laborum, ex ut similique omnis ipsum. Totam tempore praesentium
-              assumenda ducimus porro ullam quasi, expedita sit esse alias quisquam! Asperiores at suscipit
-              officiis deleniti soluta fugit quidem illo fuga, adipisci maiores. Nesciunt dolor, minus ex
-              tenetur necessitatibus et id minima, vitae sit a, assumenda, iste suscipit facere.
-              Voluptatibus animi, laboriosam qui officiis voluptatum. Voluptates quibusdam numquam
-              distinctio fuga.
+              I enjoy being able to help people with advanced solutions to
+              complex problems and pride myself in having clients that I have
+              worked with and supported for over two years.
             </p>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+            {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p> */}
           </div>
         </div>
       </div>
